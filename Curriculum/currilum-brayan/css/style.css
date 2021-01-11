@@ -1,0 +1,184 @@
+#principal{
+    width: 1200px;
+    height: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#ladoEsquerdo{
+    width: 350px;
+    height: 1500px;
+    float: left;
+    background-color: #140a04;
+    
+}
+#ladoFoto{
+    width: 350px;
+    height: 430px;
+}
+#ladoFoto-Imagem{
+    height: 250px;
+    width: 250px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+#imagem{
+    height: 250px;
+    width: 250px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+#ladofoto-Nome{
+    height: 150px;
+    width: 350px;
+}
+#h1Nome{
+    font-family: cursive, arial, Aldhabi;
+    color: white;
+    text-align: center;
+}
+#biografia{
+    height: 350px;
+    width: 350px;
+    color: white;
+    padding-top: 5px;
+    margin-top: 60px;
+}
+.pBiografia{
+    color: white;
+    font-size: 1.3em;
+    padding-top: 2px;
+    padding-left: 5px;
+}
+#ferramentas{
+    height: 340px;
+    width: 350px;
+    padding-top: 2px;
+}
+.pFerramentas{
+    color: white;
+    font-size: 1.3em;
+    font-family: colibri;
+    text-align: center;
+}
+#html{
+    background-color: greenyellow;
+    float: left;
+    width: 85px;
+    height: 20px;
+    margin-left: 125px;
+    margin-bottom: 12px;
+}
+#html2{
+    background-color: white;
+    float: right;
+    width: 15px;
+    height: 20px;
+    margin-right: 125px;
+    margin-bottom: 12px;
+}
+#css{
+    background-color: greenyellow;
+    float: left;
+    width: 60px;
+    height: 20px;
+    margin-left: 125px;
+    margin-bottom: 12px;
+}
+#css2{
+    background-color: white;
+    float: right;
+    width: 40px;
+    height: 20px;
+    margin-right: 125px;
+    margin-bottom: 12px;
+}
+#java{
+    background-color: greenyellow;
+    float: left;
+    width: 25px;
+    height: 20px;
+    margin-left: 125px;
+    margin-bottom: 12px;
+}
+#java2{
+    background-color: white;
+    float: right;
+    width: 75px;
+    height: 20px;
+    margin-right: 125px;
+    margin-bottom: 12px;
+}
+#redesSociais{
+    height: 300px;
+    width: 350px;
+}
+#Contatos{
+    height: 270px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 75px;
+
+}
+#imagemFacebook{
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-left: 20px;
+}
+#imagemLinkedin{
+    height: 100px;
+    width: 100px;
+    float: right;
+    padding-right: 10px;
+}
+#imagemInsta{
+    height: 100px;
+    width: 100px;
+    float: right;
+    padding-right: 10px;
+}
+
+
+#ladoDireito{
+    width: 850px;
+    height: 1500px;
+    float: right;
+    background-color: white;   
+}
+
+#body{
+    background-color: darkgray;
+}
+#Idiomas{
+    height: 250px;
+    width: 850px;
+}
+#Formacao{
+    height: 450px;
+    width: 850px;
+    margin-top: -30px;
+}
+#Cursos{
+    height: 280px;
+    width: 850px;
+}
+#Informatica{
+    height: 250px;
+    width: 850px;
+}
+.h1LadoDireito{
+    color: black;
+    font-family: colibri;
+    padding-left: 12px;
+}
+.pLadoDireito{
+    color: black;
+    font-family: arial, colibri;
+    font-size: 1.4em;
+    text-align: justify;
+    padding-left: 18px;
+}
